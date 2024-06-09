@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://cpt.macp.github.io/al-folio/sitemap.xml
+Sitemap: https://cptmacp.github.io/al-folio/sitemap.xml
